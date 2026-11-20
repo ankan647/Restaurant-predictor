@@ -1,0 +1,32 @@
+# R / RStudio
+.Rhistory
+.Rapp.history
+.RData
+.Ruserdata
+.Rproj.user/
+*.Rproj
+
+# R artifacts
+*.Rcheck/
+*.tar.gz
+*.Rout
+Rplots.pdf
+rsconnect/
+
+# Shiny / renv
+renv/library/
+renv/staging/
+renv/python/
+.renvignore
+shinyapps/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# Logs
+*.log
